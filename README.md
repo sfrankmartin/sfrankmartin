@@ -1,5 +1,5 @@
 # Hi, I’m Simon Francis Martin 👋
-Everyone calls me Francis. I'm a full‑stack developer (C#/.NET, TypeScript/React, Ruby on Rails) based in Melbourne, Australia. Former executive arts leader turned software engineer, with 15+ years of experience delivering compliance‑heavy, public‑facing operations and building the in‑house and public-facing tools that powered them.
+Everyone calls me Francis. I'm a full‑stack developer (C#/.NET, TypeScript/React, Ruby on Rails) based in Melbourne, Australia. Former executive arts leader turned software engineer, with 15+ years of experience delivering compliance‑heavy, public‑facing operations and building the tools that powered them.
 
 - Led cross‑functional teams and scaled venues/festivals from 180 to 2,500+ performances per year.
 - Built production software for scheduling, ticketing integrations, financial reporting, and compliance tracking.
